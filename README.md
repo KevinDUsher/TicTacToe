@@ -1,0 +1,1 @@
+This is a javascript TicTacToe game. This is one of the javascript projects from "The Oding Project"'s javascript section.
