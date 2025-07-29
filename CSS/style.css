@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    align-items: center;      
+    height: 100vh;             
+    margin: 0;                
+    background-color: #f5f5f5;
+}
+
+.first, .second, .third, .fourth, .fifth, .sixth, .seventh, .eigth,  .ninth{
+    border: 0.2rem solid black;
+    width: 6.6rem;      
+    height: 6.6rem;
+    text-align: center; 
+    vertical-align: middle; 
+    font-size: 3rem;    
+    cursor: pointer;    
+}
+
+.tableEl{
+    background-color: #880808;
+    width: 20rem;
+    height: 20rem;
+    border-collapse: collapse;
+    table-layout: fixed; 
+}
+
+.winner{
+    font-size: large;
+    font-weight: bold;
+}
